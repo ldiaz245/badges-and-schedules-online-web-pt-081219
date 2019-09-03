@@ -14,7 +14,7 @@ describe 'conference_badges' do
                   "Hello, my name is Matz."
                ]}
 
-  let(:room_assignments) {[
+  let('assing rooms') {[
                             "Hello, Edsger! You'll be assigned to room 1!",
                             "Hello, Ada! You'll be assigned to room 2!",
                             "Hello, Charles! You'll be assigned to room 3!",
